@@ -5,7 +5,7 @@ permalink: /phd/
 ---
 
 
-### **Generating Expressive Body Movements in Virtual Agents**
+<p class="mytitle">Generating Expressive Body Movements in Virtual Agents</p>
 
 <p class="mysubtitle">We are working on a speech-to-gesture synthesizer. Virtual characters with expressive body movements may improve the human perception of a connected and reactive virtual world.</p>
 
@@ -45,7 +45,7 @@ In contrast to rule-based systems, deep learning algorithms had success in perfo
 However, most research in the field of style in human motion has focused on stylistic locomotion and other actions such as walking, running, kicking, punching, jumping, and dancing rather than body movements and gestures during interactions and dialogue. Non-verbal communication elements are also susceptible to differences in style. Such elements include posture, hand gestures, and head movements. Furthermore, they often reveal physical and biological features, current emotions, or personality traits.
 
 <figure>
-<img style="float: left;" src="../_figs/example_gestures.png" height="350" alt="portrait">
+<img style="float: left; padding-left: 120px;" src="../_figs/example_gestures.png" height="350" alt="portrait">
 <figcaption style="text-align:center">Top and bottom figures extracted and modified from [6] and [7], respectively.</figcaption>
 </figure>
 

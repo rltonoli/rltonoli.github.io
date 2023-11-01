@@ -5,7 +5,7 @@ permalink: /msc/
 ---
 
 
-### **Motion Retargeting Preserving Spatial Relationship**
+<p class="mytitle2">Motion Retargeting Preserving Spatial Relationship</p>
 
 <p class="mysubtitle2">This work proposes the motion retargeting of motion capture data to 3D characters preserving the hands’ spatial relationship with the body surface. This process ensures the interaction of the hands with the body surface, such as covering the eyes or mouth.</p>
 
