@@ -28,29 +28,17 @@ My research interests include:
 <br>
 ### **Some of my work**
 
-<div id="content" class="center">
-    <div class="flex">
-      <figure >
-        <a href="/phd/">
-          <img src="_figs/audio2gestures2.png" loading="lazy" alt="cat" width="100%" style="border: 2px solid black;">
-        </a>
-        <figcaption style="text-align:center">PhD</figcaption>
-      </figure>
-      <figure >
-        <a href="/msc/">
-          <img src="_figs/retargeting_example.png" loading="lazy" alt="cat" width="100%" style="border: 2px solid black;">
-        </a>
-        <figcaption style="text-align:center">MSc</figcaption>
-      </figure>
-      <figure >
-        <a href="/other/">
-          <img src="_figs/vr.JPG" loading="lazy" alt="cat" width="100%" style="border: 2px solid black;">
-        </a>
-        <figcaption style="text-align:center">Other</figcaption>
-      </figure>
-    </div>
-
-  </div>
+<p align="middle">
+<a href="/phd/">
+  <img src="_figs/audio2gestures2.png" width="230" style="border: 2px solid black;" />
+</a>
+<a href="/msc/">
+  <img src="_figs/retargeting_example.png" width="230" style="border: 2px solid black;" /> 
+</a>
+<a href="/other/">
+  <img src="_figs/vr.JPG" width="230" style="border: 2px solid black;" />
+</a>
+</p>
 
 
 <br>
