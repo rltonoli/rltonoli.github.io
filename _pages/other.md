@@ -16,6 +16,17 @@ During my Master's program, I developed bvhsdk, a Python library for handling BV
 
 <br />
 
+
+### **MSc C# Unity**
+
+*(Work in progress)* I'm currently in the process of porting the code for my [master's project](/msc/) from Python to C#. 
+
+The Unity project in C# is available [here](https://github.com/rltonoli/mr-unity), and the original implementation in Python is available [here](https://github.com/rltonoli/MScTonoli).
+
+<iframe style="padding-left: 100px;" width="560" height="315" src="https://www.youtube.com/embed/SUvC6K-xHvA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<br />
+
 ### **Motion Capture**
 
 I have conducted motion capture sessions for all sorts of projects with their unique quirks and done some post-processing and data clean-up using Vicon Shogun. I've also shown students and fellow researchers how to operate the motion capture system and get the best out of their sessions.
