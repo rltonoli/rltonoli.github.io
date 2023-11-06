@@ -16,6 +16,14 @@ During my Master's program, I developed bvhsdk, a Python library for handling BV
 
 <br />
 
+### **Motion Capture**
+
+I have conducted motion capture sessions for all sorts of projects with their unique quirks and done some post-processing and data clean-up using Vicon Shogun. I've also shown students and fellow researchers how to operate the motion capture system and get the best out of their sessions.
+
+<iframe style="padding-left: 100px;" width="560" height="315" src="https://www.youtube.com/embed/6x8jzeydRq4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<br />
+
 ### **Signing Avatar showcase at IEEE Globecom 2022**
 
 Our team from FEEC/UNICAMP, in partnership with [Qualcomm](https://www.qualcomm.com/), showcased a demonstration of the sign language avatar from the [TAS project](https://www.tas.fee.unicamp.br/) using the [AR ThinkReality A3 Smart Glasses](https://www.lenovo.com/us/en/thinkrealitya3/) at the [IEEE Globecom 2022](https://globecom2022.ieee-globecom.org/). This demonstration was conducted under the guidance of Prof. José Mario De Martino.
@@ -56,7 +64,7 @@ This finding could leverage the adoption of VR HMD in schools to aid the educati
 
 <strong> MO444 - Machine Learning</strong>
 
-Github
+Github (N/A)
 
 <strong> MO416 - Introduction to Artificial Inteligence</strong>
 
