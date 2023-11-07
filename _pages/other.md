@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Other
-permalink: /other/
+title: Projects
+permalink: /projects/
 ---
 
 <p class="mytitle">Other relevant projects</p>

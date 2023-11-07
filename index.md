@@ -43,10 +43,10 @@ My research interests include:
         <figcaption style="text-align:center">MSc</figcaption>
       </figure>
       <figure >
-        <a href="/other/">
+        <a href="/projects/">
           <img src="_figs/vr.JPG" loading="lazy" alt="cat" width="100%" style="border: 2px solid black;">
         </a>
-        <figcaption style="text-align:center">Other</figcaption>
+        <figcaption style="text-align:center">Projects</figcaption>
       </figure>
     </div>
 

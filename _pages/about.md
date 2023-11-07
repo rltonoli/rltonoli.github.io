@@ -14,7 +14,7 @@ permalink: /about/
 <p style="font-size:large; margin-left:2cm;">
 <b>PhD</b> Electrical Engineering</p>
 <p style="font-size:small; margin-left:2cm;">
-Dept. of Computer Engineering and Industrial Automation (DCA) <br />
+Dept. of Computer Engineering and Automation (DCA) <br />
 School of Electrical and Computer Engineering (FEEC) <br />
 University of Campinas (UNICAMP)
 </p>
@@ -30,7 +30,7 @@ Advisor: Professor Paula Dornhofer Paro Costa <br />
 <b>MSc</b> Electrical Engineering
 </p>
 <p style="font-size:small;margin-left:2cm;">
-Dept. of Computer Engineering and Industrial Automation (DCA) <br />
+Dept. of Computer Engineering and Automation (DCA) <br />
 School of Electrical and Computer Engineering (FEEC) <br />
 University of Campinas (UNICAMP)
 </p>
@@ -43,7 +43,7 @@ Advisor: Professor Paula Dornhofer Paro Costa <br />
 <br />
 
 <p style="font-size:large;margin-left:2cm;">
-<b>BSc</b> Physics, emphsis on Applied Physics
+<b>BSc</b> Physics, emphasis on Applied Physics
 </p>
 <p style="font-size:small;margin-left:2cm;">
 "Gleb Wataghin" Institute of Physics (IFGW) <br />
@@ -97,7 +97,7 @@ Instrumentation in a Gleeble thermal-mechanical simulator of the UVX Synchrotron
 <p style="font-size:large; margin-left:2cm;">
 <b>IT Intern</b></p>
 <p style="font-size:small; margin-left:2cm;">
-Research and Development Center in Telecommunications (CPqD) <br />
+Research and Development Center in Telecommunications (CPQD) <br />
 </p>
 <p style="font-size:medium; margin-left:2cm;">
 IT support, maintenance, and installation of hardware and software. <br />
