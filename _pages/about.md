@@ -95,15 +95,11 @@ Presented at the 66ª Reunião Anual da SBPC (Brazilian Society for the Advancem
 Computer Science Week at <a href="https://unasp.br/">UNASP</a>, 2020.
 </p>
 
-<br />
-
 <p style="font-size:medium;margin-left:2cm; margin-bottom:0cm">
 <b>Speech-driven Gesture Generation in Virtual Agents</b><br /></p>
 <p style="font-size:small; margin-left:2cm;  margin-bottom:0cm">
 Encontro de Alunos e Docentes do Departamento de Computação e Automação (EADCA), 2020.
 </p>
-
-<br />
 
 <p style="font-size:medium;margin-left:2cm; margin-bottom:0cm">
 <b>Semi-Automatic Application for Motion Retargeting of Libras Signing Avatar</b><br /></p>
@@ -118,7 +114,7 @@ Encontro de Alunos e Docentes do Departamento de Computação e Automação (EAD
 </p>
 <p style="font-size:small; margin-left:2cm;  margin-bottom:0cm">
 Teaching Assistant for the course Experimental Physics for Electrical Engineering for Electrical and Computer Engineering undergraduate students of UNICAMP. <br />
-Second semester of 2020, first and second semesters of 2022.
+Second semester of 2020, first and second semesters of 2021.
 </p>
 
 ### **Work Experience**
