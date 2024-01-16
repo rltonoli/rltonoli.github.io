@@ -133,11 +133,12 @@ Second semester of 2020, first and second semesters of 2022.
 <a href="https://lnnano.cnpem.br/en/home-en/">Brazilian Nanotechnology National Laboratory</a><br />
 <a href="https://cnpem.br/en/">National Center for Research in Energy and Materials (CNPEM)</a> <br />
 <b>08/2014 - 12/2015</b>
-</p>
+
 <ul style="font-size:medium; margin-left:1.5cm;margin-bottom:0cm">
     <li> Developed an interactive GUI-based tool in Matlab. This tool significantly accelerated the analysis of X-ray diffraction data, completing the tasks in a fraction of the time required by commercial software with a minor trade-off in precision.</li>
     <li> Instrumentation and user assistance of the thermal-mechanical simulator Gleeble in the UVX Synchrotron Light Source.</li>
 </ul>
+</p>
 
 <br />
 
