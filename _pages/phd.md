@@ -5,7 +5,7 @@ permalink: /phd/
 ---
 
 
-<p class="mytitle">Generating Expressive Body Movements in Virtual Agents</p>
+<p class="mytitle">Speech-Driven Expressive Gesture Generation</p>
 
 <p class="mysubtitle">We are working on a speech-to-gesture synthesizer. Virtual characters with expressive body movements may improve the human perception of a connected and reactive virtual world.</p>
 

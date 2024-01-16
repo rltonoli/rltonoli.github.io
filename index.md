@@ -73,7 +73,7 @@ My research interests include:
 
 * <strong>Nov 2020</strong> I participated in the organizing committee of the [EADCA 2020](https://www.fee.unicamp.br/dca/eadca-2020/) and presented our work titled Síntese de Gestos por Voz em Agentes Virtuais (Speech-driven Gesture Generation in Virtual Agents).
 
-* <strong>Oct 2020</strong> I gave a talk titled Computer Animation: Applications and New Technologies for [UNASP](https://unasp.br/) to students of the Computer Engineering and Information Systems.
+* <strong>Oct 2020</strong> I gave a talk titled Computer Animation: Applications and New Technologies for [UNASP](https://unasp.br/) to Computer Engineering and Information Systems students.
 
 * <strong>Aug 2019</strong> I defended my MSc thesis [Motion Retargeting Preserving Spatial Relationship](https://hdl.handle.net/20.500.12733/1639986).
 
