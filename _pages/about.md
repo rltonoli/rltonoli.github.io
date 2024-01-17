@@ -22,7 +22,7 @@ Advisor: <a href="https://pdpcosta.github.io/">Professor Paula Dornhofer Paro Co
 Project: <em>"Speech-Driven Expressive Gesture Generation"</em><br />
 
 
-</p>
+</p><br />
 
 <p style="font-size:large; margin-left:2cm; margin-bottom:0cm">
 <b>MSc</b> Electrical Engineering</p>
@@ -35,9 +35,7 @@ Advisor: <a href="https://pdpcosta.github.io/">Professor Paula Dornhofer Paro Co
 Co-Advisor: <a href="https://www.dca.fee.unicamp.br/~martino/">Professor José Mario De Martino </a><br />
 Project: <em>"Motion Retargeting Preserving Spatial Relationship"</em> <br />
 
-
-
-</p>
+</p><br />
 
 <p style="font-size:large;margin-left:2cm; margin-bottom:0cm">
 <b>BS</b> Physics
@@ -61,7 +59,7 @@ PhD Thesis, more info <a href="/phd/">here</a>. <b>2019 - present.</b><br />
 - Implemented, validated, and fine-tuned several state-of-the-art machine learning models.<br />
 - Currently conducting a user study to assess the naturalness of generated animations.<br />
 
-</p>
+</p><br />
 
 <p style="font-size:large;margin-left:2cm; margin-bottom:0cm">
 <b>Gesture Generation with Diffusion Models Aided by Speech Activity Information</b><br /></p>
@@ -84,7 +82,7 @@ MSc Dissertation, more info <a href="/msc/">here</a>. <b>2015 - 2019.</b><br />
 - Authored a Python library for handling BVH animation files.<br />
 <a href="https://hdl.handle.net/20.500.12733/1639986">PDF</a> | <a href="https://github.com/rltonoli/MScTonoli">Code</a> (Python) | <a href="https://github.com/rltonoli/mr-unity">Code</a> (C#/Unity 3D) <br />
 
-</p>
+</p><br />
 
 <p style="font-size:large;margin-left:2cm; margin-bottom:0cm">
 <b>Signing Avatar in Virtual Reality: An Intelligibility Study</b><br /></p>
@@ -96,7 +94,7 @@ MSc Dissertation, more info <a href="/msc/">here</a>. <b>2015 - 2019.</b><br />
 - The research paper was accepted and presented at the XX Symposium on Virtual and Augmented Reality 2018.<br />
 <a href="https://bit.ly/3RFRaXw">PDF</a>
 
-</p>
+</p><br />
 
 <p style="font-size:large;margin-left:2cm; margin-bottom:0cm">
 <b>Production of an X-Ray Source Based on the Phenomenon of Triboluminescence from Peeling an Adhesive Tape</b><br /></p>
@@ -115,24 +113,24 @@ Undergraduate Research Project. <b>2013.</b><br />
 <p style="font-size:small; margin-left:2cm;  margin-bottom:0cm">
 - <b>Rodolfo L. Tonoli</b>; Leonardo B. de M. M. Marques; Lucas H. Ueda; Paula D. P. Costa. 2023. Gesture Generation with Diffusion Models Aided by Speech Activity Information. In Companion Publication of the 25th International Conference on Multimodal Interaction (ICMI '23 Companion). Association for Computing Machinery, New York, NY, USA, 193–199. https://doi.org/10.1145/3610661.3616554 
 
-</p>
+</p><br />
 
 <p style="font-size:small; margin-left:2cm;  margin-bottom:0cm">
 - Huang Tzu Jan; Paula D. P. Costa; <b>Rodolfo L. Tonoli</b>. Visualização de Componentes Principais em Realidade Virtual. In Proceedings: XXIX Congresso de Iniciação Científica da Unicamp, 2021, Campinas. Campinas, Galoá, 2021. Available at: https://proceedings.science/unicamp-pibic/pibic-2021/trabalhos/visualizacao-de-componentes-principais-em-realidade-virtual?lang=pt-br
 
-</p>
+</p><br />
 
 <p style="font-size:small; margin-left:2cm;  margin-bottom:0cm">
 - Júlia G. Hidalgo; Paula D. P. Costa; <b>Rodolfo L. Tonoli</b>. Visualização de Dados Georreferenciados de Clima e Saúde em Realidade Virtual. In Proceedings: XXIX Congresso de Iniciação Científica da Unicamp, 2021, Campinas. Campinas, Galoá, 2021. Available at: https://proceedings.science/unicamp-pibic/pibic-2021/trabalhos/visualizacao-de-dados-georreferenciados-de-clima-e-saude-em-realidade-virtual?lang=pt-br
 
-</p>
+</p><br />
 
 <p style="font-size:small; margin-left:2cm;  margin-bottom:0cm">
 - <b>Rodolfo L. Tonoli</b>, Paula D. P. Costa, and José M. De Martino. Signing Avatar in Virtual Reality: An Intelligibility Study. In: 20th Symposium on Virtual and Augmented
 Reality, 2018, Foz do Iguaçu. Proceedings of the WTD 20th Symposium on Virtual
 and Augmented Reality, 2018.
 
-</p>
+</p><br />
 
 <p style="font-size:small; margin-left:2cm;  margin-bottom:0cm">
 - <b>Rodolfo L. Tonoli</b>; Carlos Giles. Produção de uma Fonte de Raios-X com base no Fenômeno de Triboluminescência ao Desenrolar uma Fita Adesiva. In Proceedings: 66ª Reunião Anual da SBPC, 2014, Rio Branco.  ISSN 2176-1221. Available at: https://www.sbpcnet.org.br/LIVRO/66RA/resumos/resumos/6248.htm
@@ -146,14 +144,14 @@ and Augmented Reality, 2018.
 <p style="font-size:small; margin-left:2cm;  margin-bottom:0cm">
 Computer Science Week at <a href="https://unasp.br/">UNASP</a>, 2020.
 
-</p>
+</p><br />
 
 <p style="font-size:medium;margin-left:2cm; margin-bottom:0cm">
 <b>Speech-driven Gesture Generation in Virtual Agents</b><br /></p>
 <p style="font-size:small; margin-left:2cm;  margin-bottom:0cm">
 Encontro de Alunos e Docentes do Departamento de Computação e Automação (EADCA), 2020.
 
-</p>
+</p><br />
 
 <p style="font-size:medium;margin-left:2cm; margin-bottom:0cm">
 <b>Semi-Automatic Application for Motion Retargeting of Libras Signing Avatar</b><br /></p>
@@ -185,7 +183,6 @@ Teaching Assistant for the course Experimental Physics for Electrical Engineerin
 - Instrumentation and user assistance of the thermal-mechanical simulator Gleeble in the UVX Synchrotron Light Source.
 
 </p>
-<br />
 
 <p style="font-size:large; margin-left:2cm;margin-bottom:0cm">
 <b>IT Intern</b></p>
