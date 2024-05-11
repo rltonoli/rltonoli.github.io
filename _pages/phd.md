@@ -9,6 +9,13 @@ permalink: /phd/
 
 <p class="mysubtitle">We are working on a speech-to-gesture synthesizer. Virtual characters with expressive body movements may improve the human perception of a connected and reactive virtual world.</p>
 
+{: style="text-align: justify; margin-top:1cm;" }
+We're finalizing a paper detailing our approach and findings. In the meantime, here's a glimpse of what our model can generate:
+
+<iframe style="padding-left: 100px;" width="560" height="315" src="https://youtu.be/QSHPmrcTKt0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+{: style="text-align: justify; margin-top:1cm;" }
+Stay tuned for the publication!
 
 {: style="text-align: justify; margin-top:1cm;" }
 Character animations are hard and expensive to create. Crafting all the animations for several characters in a videogame may present a bottleneck in the production pipeline - especially for RPG games that offer non-linear and highly branched narratives (The Witcher 3: Wild Hunt, as an example, has [35 hours of dialogues!](https://www.youtube.com/watch?v=chf3REzAjgI)). A similar bottleneck is found in applications with weekly or daily content creation, such as the [virtual influencer Lu](https://www.virtualhumans.org/article/who-is-virtual-influencer-and-magalu-spokesperson-lu) of the retail company Magalu. 

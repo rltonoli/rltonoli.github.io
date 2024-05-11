@@ -126,6 +126,11 @@ Undergraduate Research Project. <b>2013.</b><br />
 </p><br />
 
 <p style="font-size:small; margin-left:2cm;  margin-bottom:0cm">
+- <b>Rodolfo L. Tonoli</b>. Motion Retargeting Preserving Spatial Relationship. Master Dissertation, 2019.
+
+</p><br />
+
+<p style="font-size:small; margin-left:2cm;  margin-bottom:0cm">
 - <b>Rodolfo L. Tonoli</b>, Paula D. P. Costa, and José M. De Martino. Signing Avatar in Virtual Reality: An Intelligibility Study. In: 20th Symposium on Virtual and Augmented
 Reality, 2018, Foz do Iguaçu. Proceedings of the WTD 20th Symposium on Virtual
 and Augmented Reality, 2018.

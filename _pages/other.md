@@ -37,7 +37,7 @@ I have conducted motion capture sessions for all sorts of projects with their un
 
 ### **Signing Avatar showcase at IEEE Globecom 2022**
 
-Our team from FEEC/UNICAMP, in partnership with [Qualcomm](https://www.qualcomm.com/), showcased a demonstration of the sign language avatar from the [TAS project](https://www.tas.fee.unicamp.br/) using the [AR ThinkReality A3 Smart Glasses](https://www.lenovo.com/us/en/thinkrealitya3/) at the [IEEE Globecom 2022](https://globecom2022.ieee-globecom.org/). This demonstration was conducted under the guidance of Prof. José Mario De Martino.
+Our team from FEEC/UNICAMP, in partnership with [Qualcomm](https://www.qualcomm.com/), showcased a demonstration of the sign language avatar from the [TAS project](https://www.tas.fee.unicamp.br/) using the [AR ThinkReality A3 Smart Glasses](https://www.lenovo.com/us/en/thinkrealitya3/) at the [IEEE Globecom 2022](https://globecom2022.ieee-globecom.org/). This demonstration was conducted under the guidance of Prof. José Mario De Martino. This demo was also presented at the [Qualcomm's University Platforms Symposium 2024](https://assets.qualcomm.com/University-Platforms-Symposium-Reg.html?cmpid=socnpd-uWw2VjGczF&utm_medium=socnpd&utm_source=Linkedin&utm_campaign=university-platforms-symposium).
 
 <img style="border: 20px solid white; padding-left: 60px;" src="../_figs/globecom.png" height="600" alt="portrait">
 
