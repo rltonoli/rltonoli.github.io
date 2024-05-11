@@ -12,7 +12,7 @@ permalink: /phd/
 {: style="text-align: justify; margin-top:1cm;" }
 We're finalizing a paper detailing our approach and findings. In the meantime, here's a glimpse of what our model can generate:
 
-<iframe style="padding-left: 100px;" width="560" height="315" src="https://youtu.be/QSHPmrcTKt0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe style="padding-left: 100px;" width="560" height="315" src="https://www.youtube.com/embed/QSHPmrcTKt0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 {: style="text-align: justify; margin-top:1cm;" }
 Stay tuned for the publication!
