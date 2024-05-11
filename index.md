@@ -57,7 +57,10 @@ My research interests include:
 ### **News**
 
 {: style="text-align: justify; margin-top:1cm; margin-bottom:1cm;" }
-* <strong>Nov 2023</strong> I'm glad to announce that UNICAMP will host the [12th EAI International Conference: ArtsIT, Interactivity & Game Creation (ArtsIT 2023)](https://artsit.eai-conferences.org/2023) in November, and I will be participating as the web chair for the event.
+
+* <strong>May 2024</strong> I, along with other Unicamp students and Professor José Mario de Martino, recently participated in [Qualcomm's University Platforms Symposium](https://assets.qualcomm.com/University-Platforms-Symposium-Reg.html?cmpid=socnpd-uWw2VjGczF&utm_medium=socnpd&utm_source=Linkedin&utm_campaign=university-platforms-symposium). At the symposium, I had the opportunity to present our research on developing sign language avatars for use in XR environments.
+
+* <strong>Nov 2023</strong> I'm glad to announce that UNICAMP hosted the [12th EAI International Conference: ArtsIT, Interactivity & Game Creation (ArtsIT 2023)](https://artsit.eai-conferences.org/2023) in November.
 
 * <strong>Oct 2023</strong> I presented the paper [Gesture Generation with Diffusion Models Aided by Speech Activity Information](https://dl.acm.org/doi/abs/10.1145/3610661.3616554) at the [ICMI 2023](https://icmi.acm.org/2023/) in Paris, France.
 
