@@ -58,6 +58,10 @@ My research interests include:
 
 {: style="text-align: justify; margin-top:1cm; margin-bottom:1cm;" }
 
+* <strong>August 2024</strong> Our paper [Gesture Area Coverage to Assess Gesture Expressiveness and Human-Likeness](https://openreview.net/forum?id=Iso5lbByDI) was accepted at [GENEA Workshop 2024](https://genea-workshop.github.io/2024/workshop/) [ICMI 2024](https://icmi.acm.org/2024/).
+
+* <strong>August 2024</strong> Our paper [Benchmarking Speech-Driven Gesture Generation Models for Generalization to Unseen Voices and Noisy Environments](https://openreview.net/forum?id=m6FDIP5o4M) was accepted at [GENEA Workshop 2024](https://genea-workshop.github.io/2024/workshop/) [ICMI 2024](https://icmi.acm.org/2024/).
+
 * <strong>May 2024</strong> I, along with other Unicamp students and Professor José Mario de Martino, recently participated in [Qualcomm's University Platforms Symposium](https://assets.qualcomm.com/University-Platforms-Symposium-Reg.html?cmpid=socnpd-uWw2VjGczF&utm_medium=socnpd&utm_source=Linkedin&utm_campaign=university-platforms-symposium). At the symposium, I had the opportunity to present our research on developing sign language avatars for use in XR environments.
 
 * <strong>Nov 2023</strong> I'm glad to announce that UNICAMP hosted the [12th EAI International Conference: ArtsIT, Interactivity & Game Creation (ArtsIT 2023)](https://artsit.eai-conferences.org/2023) in November.

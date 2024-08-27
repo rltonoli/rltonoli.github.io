@@ -111,34 +111,50 @@ Undergraduate Research Project. <b>2013.</b><br />
 ### **Publications**
 
 <p style="font-size:small; margin-left:2cm;  margin-bottom:0cm">
-- <b>Rodolfo L. Tonoli</b>; Leonardo B. de M. M. Marques; Lucas H. Ueda; Paula D. P. Costa. 2023. Gesture Generation with Diffusion Models Aided by Speech Activity Information. In Companion Publication of the 25th International Conference on Multimodal Interaction (ICMI '23 Companion). Association for Computing Machinery, New York, NY, USA, 193–199. https://doi.org/10.1145/3610661.3616554 
+- (2024) <b>Gesture Generation with Diffusion Models Aided by Speech Activity Information</b> <br />
+<b>Rodolfo L. Tonoli</b>; Leonardo B. de M. M. Marques; Lucas H. Ueda; Paula D. P. Costa. GENEA: Generation and Evaluation of Non-verbal Behaviour for Embodied Agents Workshop 2024, ICMI, Costa Rica, November 2024. Available at: https://openreview.net/forum?id=Iso5lbByDI. 
 
 </p><br />
 
 <p style="font-size:small; margin-left:2cm;  margin-bottom:0cm">
-- Huang Tzu Jan; Paula D. P. Costa; <b>Rodolfo L. Tonoli</b>. Visualização de Componentes Principais em Realidade Virtual. In Proceedings: XXIX Congresso de Iniciação Científica da Unicamp, 2021, Campinas. Campinas, Galoá, 2021. Available at: https://proceedings.science/unicamp-pibic/pibic-2021/trabalhos/visualizacao-de-componentes-principais-em-realidade-virtual?lang=pt-br
+- (2024) <b>Benchmarking Speech-Driven Gesture Generation Models for Generalization to Unseen Voices and Noisy Environments</b> <br />
+Johsac I. G. Sanchez; Kevin Inofuente-Colque; Leonardo B. de M. M. Marques; Paula D. P. Costa; <b>Rodolfo L. Tonoli</b>. GENEA: Generation and Evaluation of Non-verbal Behaviour for Embodied Agents Workshop 2024, ICMI, Costa Rica, November 2024. Available at: https://openreview.net/forum?id=m6FDIP5o4M. 
 
 </p><br />
 
 <p style="font-size:small; margin-left:2cm;  margin-bottom:0cm">
-- Júlia G. Hidalgo; Paula D. P. Costa; <b>Rodolfo L. Tonoli</b>. Visualização de Dados Georreferenciados de Clima e Saúde em Realidade Virtual. In Proceedings: XXIX Congresso de Iniciação Científica da Unicamp, 2021, Campinas. Campinas, Galoá, 2021. Available at: https://proceedings.science/unicamp-pibic/pibic-2021/trabalhos/visualizacao-de-dados-georreferenciados-de-clima-e-saude-em-realidade-virtual?lang=pt-br
+- (2023) <b>Gesture Generation with Diffusion Models Aided by Speech Activity Information</b> <br />
+<b>Rodolfo L. Tonoli</b>; Leonardo B. de M. M. Marques; Lucas H. Ueda; Paula D. P. Costa. In Companion Publication of the 25th International Conference on Multimodal Interaction (ICMI '23 Companion), 2023, Paris, France. ACM. Available at: https://doi.org/10.1145/3610661.3616554. 
 
 </p><br />
 
 <p style="font-size:small; margin-left:2cm;  margin-bottom:0cm">
-- <b>Rodolfo L. Tonoli</b>. Motion Retargeting Preserving Spatial Relationship. Master Dissertation, 2019.
+- (2021) <b>Visualização de Componentes Principais em Realidade Virtual</b> <br />
+Huang Tzu Jan; Paula D. P. Costa; <b>Rodolfo L. Tonoli</b>. In Proceedings: XXIX Congresso de Iniciação Científica da Unicamp, 2021, Campinas, Brasil. Available at: https://proceedings.science/unicamp-pibic/pibic-2021/trabalhos/visualizacao-de-componentes-principais-em-realidade-virtual?lang=pt-br
 
 </p><br />
 
 <p style="font-size:small; margin-left:2cm;  margin-bottom:0cm">
-- <b>Rodolfo L. Tonoli</b>, Paula D. P. Costa, and José M. De Martino. Signing Avatar in Virtual Reality: An Intelligibility Study. In: 20th Symposium on Virtual and Augmented
-Reality, 2018, Foz do Iguaçu. Proceedings of the WTD 20th Symposium on Virtual
-and Augmented Reality, 2018.
+- (2021) <b>Visualização de Dados Georreferenciados de Clima e Saúde em Realidade Virtual</b> <br />
+Júlia G. Hidalgo; Paula D. P. Costa; <b>Rodolfo L. Tonoli</b>. In Proceedings: XXIX Congresso de Iniciação Científica da Unicamp, 2021, Campinas, Brasil. Available at: https://proceedings.science/unicamp-pibic/pibic-2021/trabalhos/visualizacao-de-dados-georreferenciados-de-clima-e-saude-em-realidade-virtual?lang=pt-br
 
 </p><br />
 
 <p style="font-size:small; margin-left:2cm;  margin-bottom:0cm">
-- <b>Rodolfo L. Tonoli</b>; Carlos Giles. Produção de uma Fonte de Raios-X com base no Fenômeno de Triboluminescência ao Desenrolar uma Fita Adesiva. In Proceedings: 66ª Reunião Anual da SBPC, 2014, Rio Branco.  ISSN 2176-1221. Available at: https://www.sbpcnet.org.br/LIVRO/66RA/resumos/resumos/6248.htm
+- (2019) <b>Motion Retargeting Preserving Spatial Relationship</b> <br />
+<b>Rodolfo L. Tonoli</b>. Master Dissertation, 2019. Available at: https://hdl.handle.net/20.500.12733/1639986.
+
+</p><br />
+
+<p style="font-size:small; margin-left:2cm;  margin-bottom:0cm">
+- (2018) <b>Signing Avatar in Virtual Reality: An Intelligibility Study</b> <br />
+<b>Rodolfo L. Tonoli</b>, Paula D. P. Costa, and José M. De Martino. In proceedings of the WTD 20th Symposium on Virtual and Augmented Reality, 2018, Foz do Iguaçu, Brasil.
+
+</p><br />
+
+<p style="font-size:small; margin-left:2cm;  margin-bottom:0cm">
+- (2018) <b>Produção de uma Fonte de Raios-X com base no Fenômeno de Triboluminescência ao Desenrolar uma Fita Adesiva</b> <br />
+<b>Rodolfo L. Tonoli</b>; Carlos Giles. In Proceedings: 66ª Reunião Anual da SBPC, 2014, Rio Branco, Brasil. ISSN 2176-1221. Available at: https://www.sbpcnet.org.br/LIVRO/66RA/resumos/resumos/6248.htm
 
 </p>
 
