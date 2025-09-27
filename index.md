@@ -15,13 +15,14 @@ exclude: true
 
 
 {: style="text-align: justify; margin-top:1cm; margin-bottom:1cm;" }
-Hi! I'm Rodolfo, a PhD candidate at the University of Campinas (UNICAMP). My supervisor is [Paula D. P. Costa](https://pdpcosta.github.io/) and I'm also a member of the [Artificial Intelligence Lab, Recod.ai](https://recod.ai/)
+Hi! I’m Rodolfo, a PhD researcher in Deep Learning and 3D Motion at the University of Campinas (UNICAMP), graduating in 2024. Currently, I work as an AI Researcher at [Articul8](https://articul8.ai), developing domain-specific LLMs and efficient fine-tuning pipelines.
 
 {: style="text-align: justify;"}
-My research interests include:
+My interests include:
+- Large Language Models
+- Machine learning and generative modelling
 - Computer animation and behavioral AI
 - Motion Capture and computer graphics
-- Machine learning and generative modelling
 - Virtual and augmented reality
 
 
